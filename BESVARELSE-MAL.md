@@ -1,10 +1,10 @@
 # Besvarelse - Refleksjon og Analyse
 
-**Student:** [Ditt navn]
+**Student:** [Eirik Gustavsen]
 
-**Studentnummer:** [Ditt studentnummer]
+**Studentnummer:** [eigus6527]
 
-**Dato:** [Innleveringsdato]
+**Dato:** [01.03.26]
 
 ---
 
